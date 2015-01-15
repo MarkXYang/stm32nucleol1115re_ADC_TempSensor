@@ -1,4 +1,6 @@
 # stm32nucleol1115re_ADC_TempSensor
+
+STM32NUCLEO STM32L152RE
 Simple project that reads analog values from the internal temperature sensor
 
 Output with SWV (SWV console):
